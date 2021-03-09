@@ -1,0 +1,3 @@
+fun crypt(textInput: String) {
+    
+}
